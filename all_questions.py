@@ -103,7 +103,7 @@ def question8():
     answers["(d) Row 4"] = -
 
     # float between 0 and 1
-    answers["(d) Training error rate"] = 0.35
+    answers["(d) Training error rate"] = 0.38
 
     return answers
 
